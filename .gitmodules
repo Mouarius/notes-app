@@ -1,6 +1,7 @@
 [submodule "notes-backend"]
 	path = notes-backend
 	url = https://github.com/Mouarius/fso-tests-part3-notes-backend.git
+	branch = master
 [submodule "notes-frontend"]
 	path = notes-frontend
 	url = https://github.com/Mouarius/part2-notes.git
