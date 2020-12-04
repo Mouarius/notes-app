@@ -5,4 +5,4 @@
 [submodule "notes-frontend"]
 	path = notes-frontend
 	url = https://github.com/Mouarius/part2-notes.git
-	branch = dev
+	branch = build
